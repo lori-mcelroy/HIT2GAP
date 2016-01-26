@@ -1,2 +1,2 @@
 # HIT2GAP
-hIT2GAP project repository
+HIT2GAP project repository
